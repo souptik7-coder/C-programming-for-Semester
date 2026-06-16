@@ -4,4 +4,4 @@
 # Loop
 # Pattern
 # Function
-# Array
+# Array ( Linear Search , Binary Search )
